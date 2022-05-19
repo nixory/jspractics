@@ -10,3 +10,10 @@
  *
  * 3. Выведите значение последней переменной в консоль
  */
+
+const myName = 'Nikita';
+const mySurname = 'Stepanov';
+const myProfession = 'student';
+
+let a = "Меня зовут " + myName + " " + mySurname + ' и я ' + myProfession;
+console.log(a);
